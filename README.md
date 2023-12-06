@@ -15,16 +15,16 @@ This reports is done 3 times each day: at the market opening, half market season
 
 ![image](https://github.com/NRCardenas/-AFNT-Autonomous-Financial-News-Tool/assets/153119544/603bdda5-9732-4caf-8ae3-45f6f0093fe0)
 
-Breafly, the tool allow the user to create a calendar for the next week macro economic economic events. In the following week, for each day the program let the user introduce the published data for each variable (if it has already been published). The rest of the work is done automaticaly just by running the program. 
+Breafly, the tool allows the user to create a calendar for the next week macro economic economic events. In the following week, for each day the program let the user introduce the published data for each variable (if it has already been published). The rest of the work is done automaticaly just by running the program. 
 
-The first part can be done with a trained LLM and an implementation that allow the model to search the internet (both parts requires set the parameters properly (temperature, stop, tokens, first system instructions, embedings, markets, delay...) and increase the funcionality of the trained LLM). The LLM is trained with expert-like reports.
+The first paragraph is done with a trained LLM and an implementation that allow the model to search the internet (both parts requires set the parameters properly (temperature, stop, tokens, first system instructions, embedings, markets, delay...) and increase the funcionality of the trained LLM). The LLM is trained with expert-like reports.
 
-The commodities and market information comes from yfinance, that has little delay on its publication. 
+The commodities and market information comes from yfinance, that has little delay on its publication; this does not represent a problem and the delay for each market can be seen in their page. 
 
 Finally, the recollection of macro economic data is done by the user. This could be done with other pay API.
 
 ## Cost
-As this progam depends on Open AI technology, the price can be seen on its website. Also, the tool uses BING WEB Search API, that has a free option which is more than perfect for this purpose.
+This progam relies on Open AI technology, the price per token and model can be seen on its website. Also, the tool uses BING WEB Search API, that has a free option which is more than perfect for this purpose.
 
 ## Requirements and Dependencies
 
@@ -42,7 +42,7 @@ Altough it is not a library, the tool uses the BING WEB Search API.
 
 ## Contact:
 
-For more information, please feel free to contact.
+For more information, please feel free to contact any of the authors.
 
 ## Creators (github):
 Sebastian Arturo Saturno Teles -> saturnos3 
