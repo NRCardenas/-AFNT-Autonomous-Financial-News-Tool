@@ -24,20 +24,20 @@ The commodities and market information comes from yfinance, that has little dela
 Finally, the recollection of macro economic data is done by the user. This could be done with other pay API.
 
 ## Cost
-As this progam depends on Open AI technology, the price can be seen on its website. Also, the tool uses BING WEB Search API, that has a free option that is more than perfect for this purpose.
+As this progam depends on Open AI technology, the price can be seen on its website. Also, the tool uses BING WEB Search API, that has a free option which is more than perfect for this purpose.
 
 ## Requirements and Dependencies
 
 The required libraries are:
-yfinance
-openai
-pandas
-request
-tkinter (ttk)
-openpyxl
-calendar
+ - yfinance
+ - openai
+ - pandas
+ - request
+ - tkinter (ttk)
+ - openpyxl
+ - calendar
 
-Altough it is not a API, the tool uses the BING WEB Search API.
+Altough it is not a library, the tool uses the BING WEB Search API.
 
 ## Contact:
 
