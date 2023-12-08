@@ -45,5 +45,5 @@ Altough it is not a library, the tool uses the BING WEB Search API.
 For more information, please feel free to contact any of the authors.
 
 ## Creators (github):
-Sebastian Arturo Saturno Teles -> saturnos3 
-Néstor Rafael Cárdenas Castillo -> NRCardenas
+ - Sebastian Arturo Saturno Teles -> saturnos3 
+ - Néstor Rafael Cárdenas Castillo -> NRCardenas
