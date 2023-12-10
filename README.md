@@ -7,7 +7,13 @@ AFNT is a easy to use tool that simplifies the elaboration of daily market repor
 ![image](https://github.com/NRCardenas/-AFNT-Autonomous-Financial-News-Tool/assets/153119544/347ba595-9c6e-4bc9-bb87-8dcd6594a75b)
 (This is a just an example)
 
-The report include the analysis of the recent both economic and market activity (including events such as central bank announcements, M&A, economic outlooks, presentating of financial reports...), the evolution of various Stock Index, the list of macro economic variables that will (or have been) pusblished during the day and a detailed evolution of the IBEX Index.
+Asset managers, as one of their services) provides with brief notes with current information on market developments. This tool helps the assets managers to  simplify this task, making it almost autonomous, still being reviewable.
+
+The report include:
+ - the analysis of the recent both economic and market activity (including events such as central bank announcements, M&A, economic outlooks, presentating of financial reports...)
+ - the evolution of various Stock Index
+ - the list of macro economic variables that will (or have been) pusblished during the day and
+ - a detailed evolution of the IBEX Index.
 
 This reports is done 3 times each day: at the market opening, half market season and market closure. At this moment, this work only for the European market, but will be include more options in the future.
 
