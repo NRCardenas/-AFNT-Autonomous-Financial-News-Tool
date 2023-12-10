@@ -21,7 +21,7 @@ This reports is done 3 times each day: at the market opening, half market season
 | :-----: | :---: | :---: |
 | Morning | X   | -   |
 | Half season | X   | -   |
-| Clousure | X   | -   |
+| Closure | X   | -   |
 
 ## How do this work?
 
