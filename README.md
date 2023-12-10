@@ -7,7 +7,7 @@ AFNT is a easy to use tool that simplifies the elaboration of daily market repor
 ![image](https://github.com/NRCardenas/-AFNT-Autonomous-Financial-News-Tool/assets/153119544/347ba595-9c6e-4bc9-bb87-8dcd6594a75b)
 (This is a just an example)
 
-Asset managers, as one of their services) provides with brief notes with current information on market developments. This tool helps the assets managers to  simplify this task, making it almost autonomous, still being reviewable.
+Asset managers, as one of their services, provides with brief notes with current information on market developments. This tool helps the assets managers to  simplify this task, making it almost autonomous, still being reviewable.
 
 The report include:
  - the analysis of the recent both economic and market activity (including events such as central bank announcements, M&A, economic outlooks, presentating of financial reports...)
