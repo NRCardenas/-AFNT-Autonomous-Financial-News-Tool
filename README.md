@@ -17,9 +17,11 @@ The generated report include:
 
 This reports is done 3 times each day: at the market opening, half market season and market closure. At this moment, this work only for the European market, but will be include more options in the future.
 
-| Attempt | #1    | #2    |
+| Market | European    | American    |
 | :-----: | :---: | :---: |
-| Seconds | 301   | 283   |
+| Morning | X   | -   |
+| Half season | X   | -   |
+| Clousure | X   | -   |
 
 ## How do this work?
 
