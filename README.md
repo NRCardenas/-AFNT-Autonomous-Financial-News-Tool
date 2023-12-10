@@ -17,7 +17,7 @@ The generated report include:
 
 This reports is done 3 times each day: at the market opening, half market season and market closure. At this moment, this work only for the European market, but will be include more options in the future.
 
-| Market | European    | American    |
+| Time of the day / Market | European    | American    |
 | :-----: | :---: | :---: |
 | Morning | X   | -   |
 | Half season | X   | -   |
