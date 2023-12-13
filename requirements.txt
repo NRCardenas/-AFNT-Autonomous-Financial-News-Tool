@@ -1,0 +1,16 @@
+To execute this short program there are some import required.
+
+
+The required libraries are:
+    yfinance
+    openai
+    pandas
+    request
+    tkinter (ttk)
+    openpyxl
+    calendar
+    from docx import Document
+
+The git-hub project that provides an improved GUI is (this can be change without breaking the program structure):
+https://github.com/rdbende/Forest-ttk-theme
+We thanks the author for this amazing work.
